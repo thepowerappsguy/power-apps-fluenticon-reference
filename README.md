@@ -90,7 +90,6 @@ Add more rows using any **Name** from the table below. Each row's **Icon** colum
 - This is **not** the full Fluent UI library (~2,900 icons). Only enum members work natively with `FluentIcon.*` in canvas apps.
 - Preview images are reference SVGs from [Fluent UI System Icons](https://github.com/microsoft/fluentui-system-icons). They may look slightly different in your app depending on control version and theme.
 - If an icon shows as a **circle placeholder** in Studio, the icon may not be available in your app's control version yet — try updating the app or picking a similar icon from the list.
-- Microsoft occasionally updates enum names. Former members like `CellularData1`, `LineHorizontal3`, `CheckmarkCircle12`, `ErrorCircle12`, and `Warning12` were renamed or removed — use `CellularData`, `LineHorizontal`, `CheckmarkCircle`, `ErrorCircle`, and `Warning` instead.
 
 ---
 
